@@ -19,8 +19,7 @@
 .SYNOPSIS   
     Check last version and documentation at https://github.com/acts268/ScriptCollection/blob/main/Powershell/Security/Crear_Password_20_caracteres.ps1
     
-    REQUIRES
-        IF want to run as script
+    IF want to run as script
             - Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
         
 #>
