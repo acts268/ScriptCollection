@@ -17,7 +17,7 @@
     #WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 .SYNOPSIS   
-    Check last version and documentation at https://github.com/acts268/ScriptCollection/Powershell/Crear_Password_20_caracteres.ps1
+    Check last version and documentation at https://github.com/acts268/ScriptCollection/blob/main/Powershell/Security/Crear_Password_20_caracteres.ps1
     
     REQUIRES
         IF want to run as script
